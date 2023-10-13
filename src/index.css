@@ -7,6 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.title, h2   {
+.title, h2, p   {
   text-align: center;
 }

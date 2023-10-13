@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <h1 className="title">abodaif</h1>
-      <h2>hdhdbv</h2>
+      <p>React</p>
+      <h2>Welcome React</h2>
     </>
   );
 }
